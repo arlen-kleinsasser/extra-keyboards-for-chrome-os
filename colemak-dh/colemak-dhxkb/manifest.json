@@ -1,0 +1,21 @@
+
+
+{
+  "name": "Colemak-DH",
+  "version": "1.0",
+  "manifest_version": 1,
+  "description": "Colemak-DH layout",
+  "permissions": [
+    "input"
+  ],
+  "input_components": [
+    {
+      "name": "Colemak-DH",
+      "type": "ime",
+      "id": "colemak_dh_xkb_us",
+      "description": "Colemak-DH layout",
+      "language": ["en-US"],
+      "layouts": ["us(colemak-dh)"]
+    }
+  ]
+}
